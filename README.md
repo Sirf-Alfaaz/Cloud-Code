@@ -50,6 +50,16 @@ CloudCode is a real-time, browser-based collaborative code editor inspired by Re
 - ⚡ Hackathons and quick prototyping
 
 ---
+![image](https://github.com/user-attachments/assets/728b3028-c7e9-418a-83a2-540e3cfa5085)
+
+
+![image](https://github.com/user-attachments/assets/a960fdb9-14d8-4e6a-b125-0ccee4b9ee54)
+
+![image](https://github.com/user-attachments/assets/77e5b9be-4a74-41fe-95a1-a2e3098350dc)
+
+
+
+
 
 ## 🛠️ Setup & Installation (For Developers)
 
