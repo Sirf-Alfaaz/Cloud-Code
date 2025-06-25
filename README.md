@@ -61,18 +61,18 @@ git clone https://github.com/your-username/cloudcode.git
 cd cloudcode
 
 # Install server dependencies
-cd server
+cd backend
 npm install
 
 # Install client dependencies
-cd ../client
+cd ../frontend
 npm install
 
 
 # Start the backend
-cd ../server
+cd backend
 npm run dev
 
 # Start the frontend
-cd ../client
+cd frontend
 npm start
